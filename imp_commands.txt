@@ -1,0 +1,7 @@
+
+//----------------------- git commands -------------- //
+git add .
+git commit -m " ENTER_YOUR_COMMENT "
+git push origin main
+//----------------------- packages -------------- //
+babel es6, es6 code snippets, vscode icons
